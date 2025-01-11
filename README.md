@@ -1,4 +1,4 @@
-# CPU Algorithms Scheduling Simulator
+# CPU  Scheduling Algorithms Simulator
 
 ## Overview
 This project implements a CPU Scheduling Simulator in C++ that allows users to simulate three common CPU scheduling algorithms:
