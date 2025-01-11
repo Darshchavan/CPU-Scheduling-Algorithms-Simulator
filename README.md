@@ -1,4 +1,4 @@
-# CPU-Scheduling-Algorithms-Simulator
+# CPU Algorithms Scheduling Simulator
 
 ## Overview
 This project implements a CPU Scheduling Simulator in C++ that allows users to simulate three common CPU scheduling algorithms:
@@ -83,9 +83,9 @@ Enter your choice: 1
 ```
 First Come First Serve Scheduling
 Process	Arrival Time	Burst Time	Completion Time	Waiting Time	Turnaround Time
-P1		   0		           5		          5		             0		           5
-P2		   1		           3		          8		             4		           7
-P3		   2		           8		          16		           6		           14
+P1		0		5		5		0		5
+P2		1		3		8		4		7
+P3		2		8		16		6		14
 ```
 
 ---
